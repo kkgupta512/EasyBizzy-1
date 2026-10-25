@@ -1,0 +1,6 @@
+{
+  "name": "EasyBizzy",
+  "description": "Native Android app for Indian shopkeepers and customers featuring offline-first encrypted billing, khata ledgers, inventory, and local marketplace discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
